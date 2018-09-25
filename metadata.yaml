@@ -1,5 +1,8 @@
 _repo: Wild-Life-at-the-Land-s-End-Observations-of-the-Habits-and-Haunts-of-the-Fox-Badger-Otter-Sea__57906
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57906-h/images/cover.jpg
 creator:
   author:
     agent_name: Tregarthen, J. C. (John Coulson)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '44723'
     url: http://www.gutenberg.org/2009/agents/44723
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57906#Wild-Life-at-the-Land-s-End-Observations-of-the-Habits-and-Haunts-of-the-Fox-Badger-Otter-Sea_
 gutenberg_issued: '2018-09-14'
 gutenberg_type: Text
 identifiers:
